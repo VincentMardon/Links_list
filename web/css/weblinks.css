@@ -1,0 +1,12 @@
+body { 
+    padding-top: 70px; 
+}
+
+.adminTable {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#errorPanel {
+	padding-bottom: 10px;
+}
